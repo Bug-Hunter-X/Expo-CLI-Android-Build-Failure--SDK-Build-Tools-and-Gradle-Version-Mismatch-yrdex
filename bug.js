@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI to build an Android app and involves issues with the Android SDK build tools version and the Gradle version used by the Expo project. The error message might not directly point to the incompatibility but manifest as various build failures or errors related to signing configurations, dependencies, or build processes.
